@@ -19,12 +19,12 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 
 @SpringBootApplication
-public class MytaxiServerApplicantTestApplication extends WebMvcConfigurerAdapter
+public class MyCabTestApplication extends WebMvcConfigurerAdapter
 {
 
     public static void main(String[] args)
     {
-        SpringApplication.run(MytaxiServerApplicantTestApplication.class, args);
+        SpringApplication.run(MyCabTestApplication.class, args);
     }
 
 
